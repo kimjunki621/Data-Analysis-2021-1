@@ -1,4 +1,5 @@
-chromedriver.exe/
+# delete
+chromedriver.exe
 
 # Editors
 .vscode/
