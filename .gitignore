@@ -1,5 +1,6 @@
 # delete
 chromedriver.exe
+get-pip.py
 
 # Editors
 .vscode/
